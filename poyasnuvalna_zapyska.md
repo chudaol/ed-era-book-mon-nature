@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 Пояснювальна записка
 =============================================
 # *Загальна характеристика навчального предмета*
@@ -18,5 +20,6 @@
 <p>Такий підхід до розробки змісту забезпечує активність навчально-пізнавальної, природоохоронної діяльності кожного школяра.</p>
 <p>Відповідно до базового навчального плану предмет «Природознавство» вивчається з 1 по 4 клас по дві години на тиждень. Загальний обсяг навчального часу становить 270 годин.</p>
 
-<div id="hypercomments_widget"></div>
+<div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
