@@ -9,12 +9,12 @@
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-* [Вступ](4/vstup.md)
-* [Всесвіт і Сонячна система](4/vsesvit.md)
-* [План і карта](4/plan.md)
-* [Природа материків і океанів](4/pryroda.md)
-* [Природа України](4/ukraine.md)
-* [Тіла і речовини](4/tila_rechovini.md)
+* [Вступ](vstup.md)
+* [Всесвіт і Сонячна система](vsesvit.md)
+* [План і карта](plan.md)
+* [Природа материків і океанів](pryroda.md)
+* [Природа України](ukraine.md)
+* [Тіла і речовини](tila_rechovini.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
