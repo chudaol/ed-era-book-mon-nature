@@ -4,13 +4,10 @@
 =============================================
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
     <b>Розділ II. Повітря. (5 год.)</b><br>
@@ -34,7 +31,6 @@
     <i>застосовує</i> на практиці знання про склад і властивості повітря, його охорону від забруднення.<br>
 	</td>
   </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

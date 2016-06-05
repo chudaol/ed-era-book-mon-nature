@@ -10,7 +10,7 @@
 * [Нежива природа](nejyva_pryroda.md)
 * [Жива природа](jyva_pryroda.md)
 * [Рідний край](ridnyi_krai.md)
-* [Моя країна — Україна](1/moja_kraina.md)
+* [Моя країна — Україна](moja_kraina.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
