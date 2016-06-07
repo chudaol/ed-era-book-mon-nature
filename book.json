@@ -13,9 +13,7 @@
             "weibo": false,
             "instapaper": false,
             "vk": false,
-            "all": [
-                "facebook", "google", "twitter"
-            ]
+            "all": []
         },
         "addcssjs": {
             "css": [
